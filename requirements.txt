@@ -5,5 +5,6 @@ langchain
 faiss-cpu
 numpy
 python-dotenv
-git+https://github.com/langchain-ai/langgraph.git
+tiktoken
+git+https://github.com/langchain-ai/langgraph.git@main
 
