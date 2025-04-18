@@ -9,3 +9,4 @@ tiktoken
 git+https://github.com/langchain-ai/langgraph.git@main
 
 langchain-openai
+langchain-openai
