@@ -1,6 +1,16 @@
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
 import streamlit as st
 from graph.langgraph_runner import run_graph
 from memory.memory_summary import update_memory_summary
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+
 
 st.set_page_config(page_title="Mall of Toys Chatbot", page_icon="🧠", layout="centered")
 
